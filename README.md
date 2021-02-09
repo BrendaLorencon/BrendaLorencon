@@ -1,16 +1,31 @@
-### Hi there 👋
+## Brenda Lorençon 👋
 
-<!--
-**BrendaLorencon/BrendaLorencon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Brenda Lorençon 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 👩🏻‍🦰 Name: Brenda da Silva Lorençon
+- ### 🏙️ City: Guariba-SP
+- ### 🏫 College: Fatec-Taquaritinga
+
+- ##### [Link p/Linkedin ](https://www.linkedin.com/in/brendalorencon/)
+
+## Estudando: 🧐
+
+#### Front-End:
+- HTML
+- CSS
+- Design
+- JavaScript
+- UX Design e UI Design
+- Wireframe
+- Domínio, Hospedagem e Analytics
+- React
+- Sass
+
+
+
+## Expectativa: ✍🏼
+
+Adquirir conhecimento cada vez mais, trabalhar na área e podendo conseguir vários desafios durante a caminhada no Front-end.
+
+Bye bye...👋🏻👋🏻👋🏻
