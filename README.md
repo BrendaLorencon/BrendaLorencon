@@ -1,6 +1,3 @@
-## Brenda Lorençon 👋
-
-
 # Brenda Lorençon 👩‍💻
 
 - ### 👩🏻‍🦰 Name: Brenda da Silva Lorençon
