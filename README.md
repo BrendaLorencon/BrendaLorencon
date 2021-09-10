@@ -1,7 +1,7 @@
 # Brenda Lorençon 👩‍💻
 
 - ### 👩🏻‍🦰 Name: Brenda da Silva Lorençon
-- ### 🏙️ City: Guariba-SP
+- ### 🏙️ City: Sertãozinho-SP
 - ### 🏫 College: Fatec-Taquaritinga
 
 - ##### [Link p/Linkedin ](https://www.linkedin.com/in/brendalorencon/)
@@ -11,12 +11,14 @@
 #### Front-End:
 - HTML
 - CSS
+- WordPress
 - Design
 - JavaScript
 - UX Design e UI Design
 - Wireframe
 - Domínio, Hospedagem e Analytics
 - React
+- Flutter
 - Sass
 
 
