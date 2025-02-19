@@ -15,7 +15,7 @@ I am twenty five years old and have a degree in Systems Analysis and Development
 I dedicate my free time to practicing physical activities and personal development.
 I try to add as much experience as possible to contribute to activities in different areas.
 
-- ##### [Link p/Linkedin ](https://www.linkedin.com/in/brendalorencon/)
+- ##### [Linkedin](https://www.linkedin.com/in/brendalorencon/)
 
 #### 💻 Full Stack:
 - HTML
